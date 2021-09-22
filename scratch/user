@@ -1,0 +1,12 @@
+{
+  valid: '0',
+  role: 'client',
+  _id: 6122b4144b6ca9346c2c8df8,
+  nom: 'med',
+  prenom: 'med',
+  email: 'najjarmedd@gmail.com',
+  tel: '0606587853',
+  address: 'qu salam',
+  ville: 'youssoufia',
+  password: '$2b$12$YXh4/NntBY6Lozmy9gig4eOfLFwnFlD6dXLLYNtkES9bgYb92kBv2'
+}
